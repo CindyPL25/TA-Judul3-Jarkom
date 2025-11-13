@@ -10,6 +10,12 @@ Melalui praktikum ini, peserta memahami bagaimana VLAN dapat digunakan untuk men
 
 ---
 
+### 🎥 Dokumentasi Video
+
+Link YouTube Praktikum: [Klik di sini](https://youtu.be/DlWJ0IRAKXM)
+
+---
+
 ### ⚙️ Langkah Umum
 
 1. Membangun topologi jaringan sesuai panduan lab.
@@ -48,20 +54,12 @@ Melalui praktikum ini, peserta memahami bagaimana VLAN dapat digunakan untuk men
 **1️⃣ Hasil Ping PC**
 
 > ![Screenshot 3](HasilPing1.png)
-> PC-A berhasil berkomunikasi dengan PC-B pada VLAN yang sama (VLAN 10).
 
 ---
 
 **2️⃣ Hasil Ping Switch**
 
 > ![Screenshot 4](HasilPing2.png)
-> Ping antar VLAN (VLAN 10 ↔ VLAN 99) gagal karena tidak adanya **perangkat Layer 3 (router)** yang melakukan routing antar VLAN.
-
----
-
-### 🎥 Dokumentasi Video
-
-Link YouTube Praktikum: [Klik di sini](https://youtu.be/DlWJ0IRAKXM)
 
 ---
 
