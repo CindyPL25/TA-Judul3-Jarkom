@@ -61,7 +61,7 @@ Melalui praktikum ini, peserta memahami bagaimana VLAN dapat digunakan untuk men
 
 ### 🎥 Dokumentasi Video
 
-Link YouTube Praktikum: [Klik di sini](https://youtu.be/yourlink)
+Link YouTube Praktikum: [Klik di sini](https://youtu.be/DlWJ0IRAKXM)
 
 ---
 
